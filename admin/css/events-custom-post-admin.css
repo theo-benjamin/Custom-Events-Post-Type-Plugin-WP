@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ textarea{
+    resize:none !important;
+    width:100%
+ }
+
+ input#event_signup_link{
+    width:600px;
+ }
+
+ input#event_start_time{
+    width:100%;
+ }
+
+ input#event_end_time{
+    width:100%;
+ }
